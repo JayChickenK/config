@@ -2,6 +2,8 @@
 
 This is my constantly updated CS:GO autoexec config.
 
+Put autoexec.cfg in `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` or take what you want from it and add to your autoexec config!
+
 ### Launch Options
 ```
 -novid -high -threads 8 -tickrate 128 +mat_queue_mode 2 +exec autoexec.cfg
@@ -22,3 +24,7 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 
 **CT**: M4A4, USP-S, Five-SeveN <br>
 **T**: Tec-9
+<br>
+<br>
+<br>
+*Template by [Budi](https://gist.github.com/nickbudi/3916475)*
