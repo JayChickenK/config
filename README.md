@@ -1,0 +1,2 @@
+# config
+Cs Go config
